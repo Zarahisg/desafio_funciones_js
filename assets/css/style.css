@@ -1,0 +1,22 @@
+
+
+.div {
+    height: 200px;
+    width: 200px;
+    border-radius: 25%;
+
+  }
+section {
+    display: flex;
+    align-items: center;
+    gap: 5px;
+  }
+  .Aqua{
+    color: rgb(2, 67, 67);
+  }
+  .purple {
+    color: purple;
+  }
+  .yellowgreen {
+    color:yellowgreen;
+  }
